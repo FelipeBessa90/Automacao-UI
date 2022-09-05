@@ -1,0 +1,24 @@
+{
+  "name": "aula-automacao",
+  "version": "1.0.0",
+  "description": "Modulo 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeBessa90/aula-automacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeBessa90/aula-automacao/issues"
+  },
+  "homepage": "https://github.com/FelipeBessa90/aula-automacao#readme",
+  "dependencies": {
+    "cypress": "^10.7.0",
+    "faker-br": "^0.4.1"
+  }
+}
